@@ -5,12 +5,27 @@ description: "A 75% keyboard... :3"
 created_at: "2025-07-20"
 ---
 
-# July 19th: Built the PCB
+# July 19th: Started building the PCB
 
 - Learned how to make Switch Matrix
-- Will add OLED and Rotary encoder later
+- Not gonna wire allat yet (pain)
+- Will add Rotary encoder later
 <img width="783" height="386" alt="image" src="https://github.com/user-attachments/assets/470b75e4-cb81-4ba6-9995-cd7031084e43" />
-<img width="1015" height="507" alt="image" src="https://github.com/user-attachments/assets/ac80fa91-ac70-4c8a-85ee-c141ebdfbe85" />
+<img width="1605" height="859" alt="image" src="https://github.com/user-attachments/assets/92ebeba3-8e96-42b4-818f-065a6d68d03c" />
 
 
 **Total time spent: 3h**
+
+# July 20th: Finished the PCB
+
+- Added the Rotary Encoder
+- Added Stabilizers 
+- Wired PCB (pain)
+- Added some rlly cool silkscreen :3 I wonder what a highway is?...
+- Added PCB Files / Gerber to Repo
+- Started working on case
+
+<img width="1855" height="817" alt="image" src="https://github.com/user-attachments/assets/2d950956-2f43-4394-a420-3590978dd5f8" />
+
+
+**Total time spent: 7h**
