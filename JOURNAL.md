@@ -35,7 +35,8 @@ created_at: "2025-07-20"
 
 - Imported Raspberry Pi Pico & Rotary Encoder
 - Created Plate
+- Created Firmware
 
 <img width="2219" height="1182" alt="image" src="https://github.com/user-attachments/assets/bfc51569-5a8d-46b0-a5ce-8e3ad02bf9c0" />
 
-**Total time spent: 2h**
+**Total time spent: 4h**
